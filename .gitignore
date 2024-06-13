@@ -1,10 +1,11 @@
 # Local .terraform directories
 **/.terraform/*
 
+logs/
 # .tfstate files
 *.tfstate
 *.tfstate.*
-
+__pycache__
 # Crash log files
 crash.log
 crash.*.log
